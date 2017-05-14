@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e95507780b7c51d3b35863877341e27cdf532f74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_f512bbd71b8b46663f16f63982211a491ee17cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5457a56e0d2bf6b5910fea1b976e48dc1fc56236/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_97cfc8af553fb8770441c2a9d9ca70ec9283aa64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/73b290d5ef4c7273a5544433ca2513c39a2ebb4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_9f8ca186408364897fc5a4806c98f1ee6528528b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3370f941226ad69bbab8d19c2969025bde7d70c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_d97014f45b0d11629e8f1f47433494aa6c19b324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/12bef7c1cb61675a28df0be548c8bfec986ef584/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_a6384e243f742bfd272a78b40f0f6907cf549ca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0056092106d552d2216b4d519335ee76f9a82aa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_2557e6a55de71defbb8a0bf552b50af629e764bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87bb0e60ea279d875a8e599fee0a4c044c01fde3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/fbb09a7b69cdd4b83d816b6e878ba5e8e5b98442/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_fd360dd5a13fd5c03da7f02295ef0f2307edb342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/409db63cc9f5c0bafb243ed0e5a7f426ac59f849/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_14961a22f202138b5e33e7b541110dae27b40e4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f455d3c33d84224d3d68f38c0b98305944aecb08">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_897c2c35950e03aae9bd52329b264665157cb241/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bb5e2d2268eeb766709b2097bdf0ec24c3a79ebb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_07c0cb2fa3ac948b041996915e962f2231cf15ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/40df5722eda8ba12277682a62f9d9a863af85006/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/classes_7c25d61d863b95f069d5342ab74cca53c0ee978b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/AndroidStudioProjects/WifiDirect/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27c24d26e4c5d57976e6926367985548678e913c">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/android-support-v4_9eae2ba17e88151be337d699f99595481ec35d50.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/WifiDirect/app/libs/android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27c24d26e4c5d57976e6926367985548678e913c">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_9eae2ba17e88151be337d699f99595481ec35d50/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/root/AndroidStudioProjects/WifiDirect/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574.jar" />
+    </item>
+
+</items>
